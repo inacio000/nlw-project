@@ -1,6 +1,7 @@
 # NLW-project
 
 ![preview](./Previews/preview.png)
+> Explorer Trail
 
 # Description
 Project made from Rocketseat's Next Level Week event
