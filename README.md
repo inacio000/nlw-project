@@ -2,13 +2,14 @@
 
 ![preview](./Previews/preview.png)
 
+# Description
 Project made from Rocketseat's Next Level Week event
 
-# Techs
+# 🛠️ Techs
 * HTML
 * CSS
 * Git and GitHub
 
-# Visit this link to access the page or scan the code bellow
-## https://inacio000.github.io/nlw-project/
+# [🔗Click here to access the page](https://inacio000.github.io/nlw-project/) 
+# Or scan the code bellow
 ![qrcode](./Previews/qrcode.png)
