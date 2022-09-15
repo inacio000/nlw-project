@@ -1,7 +1,14 @@
-# nlw-project
+# NLW-project
 
-![image](https://user-images.githubusercontent.com/84747204/190522547-8d64d59f-db2b-4ff1-ad11-8a3e8c574f99.png)
+![preview](./Previews/preview.png)
 
-# Tools
+Project made from Rocketseat's Next Level Week event
+
+# Techs
 * HTML
 * CSS
+* Git and GitHub
+
+# Visit this link to access the page or scan the code bellow
+## https://inacio000.github.io/nlw-project/
+![qrcode](./Previews/qrcode.png)
