@@ -16,6 +16,7 @@ Project made from Rocketseat's Next Level Week event
 # Or scan the code bellow
 ![qrcode](./Previews/qrcode.png)
 
+
 # 💬 Contact me
 <a href="https://www.linkedin.com/in/inácio-raimundo-06b100209" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
