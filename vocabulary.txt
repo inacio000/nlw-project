@@ -1,0 +1,6 @@
+- Biblioteca de terceiros
+    Códigos feitos por outro, que resolvem um problema e que poderemos utilizar em nossos projetos.
+    Ex: React js.
+
+    -   Swiper
+        Biblioteca que oferece a funcionalidade de um "slider" e que funciona na web e mobile.

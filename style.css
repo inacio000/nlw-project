@@ -9,10 +9,10 @@ ul {
 }
 
 body {
-    background-image: url(images/Fundo.jpg);
+    background-image: url(images/bg.jpg);
     background-position: top center;
     background-repeat: no-repeat;
-    background-color: #121214;
+    background-color: #000110;
     background-size: 100% auto;
 }
 
@@ -29,7 +29,7 @@ header {
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, rgba(0, 60, 255, 0.514) 0%, rgba(0, 128, 0, 0.815) 50%, yellowgreen 100%);
+    background-image: linear-gradient(90deg, rgba(103, 126, 201, 0.514) 0%, rgba(0, 128, 0, 0.815) 50%, rgba(153, 205, 50, 0.712) 100%);
 
     border-radius: 50%;
 
@@ -50,7 +50,8 @@ header div img {
 }
 
 main {
-    max-width: 580px;
+    /* max-width: 580px; */
+    max-width: 360px;
     width: 90%;
     margin: 32px auto;
 
@@ -67,10 +68,14 @@ section {
 }
 
 section div {
-    background-color: #2a2634;
+    background-color: #063552e8;
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
+}
+
+section .swiper {
+    background: transparent;
 }
 
 section h2 {
@@ -156,4 +161,15 @@ main section:nth-child(3) {
         opacity: 1;
         transform: translateX(0);
     }
+}
+
+/* Swiper */
+
+section {
+    overflow: hidden;
+}
+
+section ul {
+    flex-wrap: nowrap;
+    gap: 0;
 }
