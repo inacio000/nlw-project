@@ -9,6 +9,7 @@ Project made from Rocketseat's Next Level Week event
 # 🛠️ Techs
 * HTML
 * CSS
+* JavaScript
 * Git and GitHub
 
 # [🔗Click here to access the page](https://inacio000.github.io/nlw-project/) 
