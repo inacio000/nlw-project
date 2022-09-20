@@ -114,6 +114,20 @@ section ul li:hover {
     border: 1px solid #585269;
 }
 
+.media li {
+    margin-right: 8px;
+}
+
+.git img {
+    width: 25px;
+    padding-top: 3px;
+}
+
+.linkedin img {
+    width: 24px;
+    padding-top: 4px;
+}
+
 
 /* Animation */
 
@@ -136,8 +150,6 @@ main section:nth-child(2) {
 main section:nth-child(3) {
     animation-delay: .8s;
 }
-
-
 
 @keyframes fromTop {
     from {
