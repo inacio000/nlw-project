@@ -1,6 +1,6 @@
 # NLW-project
 
-![preview](./Previews/preview.png)
+![preview](./Previews/Preview.png)
 > Explorer Trail
 
 # Description
